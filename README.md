@@ -10,7 +10,7 @@ I'm Dev M. Shah, a passionate IT professional with a diverse background in espor
 ## 📫 Contact Information
 - **Phone:** +1 (437)-971-6240
 - **Email:** devshah.d54@gmail.com
-- **LinkedIn:** [@devshah.54](https://www.linkedin.com/in/devshah.54/)
+- **LinkedIn:** [@dev-shah-054](https://www.linkedin.com/in/dev-shah-054/)
 - **Address:** 459 Mill Street, Kitchener, Ontario - N2G 2Y5
 
 ## 🖥️ Technical Skills
