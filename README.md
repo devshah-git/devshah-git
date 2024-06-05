@@ -68,7 +68,7 @@ I'm Dev M. Shah, a passionate IT professional with a diverse background in espor
 
 ---
 
-![Dev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
-![trophy](https://github-profile-trophy.vercel.app/?username=your-username)
-![Visitor Count](https://komarev.com/ghpvc/?username=your-username&color=blue)
+![Dev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=devshah-git&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devshah-git&layout=compact&theme=radical)
+![trophy](https://github-profile-trophy.vercel.app/?username=devshah-git)
+![Visitor Count](https://komarev.com/ghpvc/?username=devshah-git&color=blue)
