@@ -3,6 +3,10 @@
 **Welcome to my GitHub!**  
 I'm Dev M. Shah, a passionate IT professional with a diverse background in esports management, IT analysis, retail operations, and data management. I aim to leverage my programming skills and analytical expertise to drive innovation and success in the tech industry.
 
+<div align="center">
+    <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="600" height="400"/>
+</div>
+
 ## 📫 Contact Information
 - **Phone:** +1 (437)-971-6240
 - **Email:** devshah.d54@gmail.com
@@ -16,7 +20,6 @@ I'm Dev M. Shah, a passionate IT professional with a diverse background in espor
 - **Certifications:** CompTIA A+, AI, Excel, Learning Paths for JavaScript, CS5, C, C#
 
 ## 🏢 Professional Experience
-
 ### Esports Hub Lead & End User Support Specialist (PT) - Conestoga College, Waterloo, Ontario
 - Enhanced network and work performance by 50% with new policies.
 - Optimized gaming infrastructure and booking systems by 30%.
@@ -62,3 +65,10 @@ I'm Dev M. Shah, a passionate IT professional with a diverse background in espor
 - Flexible hours, including weekends and evenings
 
 **References available upon request.**
+
+---
+
+![Dev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![trophy](https://github-profile-trophy.vercel.app/?username=your-username)
+![Visitor Count](https://komarev.com/ghpvc/?username=your-username&color=blue)
